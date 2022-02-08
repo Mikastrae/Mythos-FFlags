@@ -1,0 +1,14 @@
+{
+    "Default": {
+        "ForceStudioDebugMode": false,
+        "OnlyAllowTesters": true
+    },
+
+    "Lobby": {
+        "ForceTeleport": true
+    },
+
+    "WorldOne": {
+        "EnableDayNight": false
+    }
+}
