@@ -1,8 +1,7 @@
 {
     "Default": {
         "ForceStudioDebugMode": true,
-        "OnlyAllowTesters": true,
-        "IsImmortalInDebugMode": true
+        "OnlyAllowTesters": true
     },
 
     "Lobby": {
